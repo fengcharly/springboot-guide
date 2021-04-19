@@ -164,7 +164,7 @@ Powermockito.doNothing.when(T class2mock, String method, <T>… params>
 
 输入数据验证：这些检查通常可以对输入到应用程序系统中的数据采用。
 
-- 必传项测
+- 必传项测试
 - 唯一字段值测试
 - 空值测试
 - 字段只接受允许的字符
